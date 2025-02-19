@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on App development
   
 - 📫 How to reach me juangel.gomez@gmail.com
-- ⚡ Fun fact: I like music, I enjoy mi time playing guitar for hours
+- ⚡ Fun fact: I like music, I enjoy my time playing guitar for hours
 
 <!---
 juangelgomez/juangelgomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
