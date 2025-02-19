@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @juangelgomez
 - 👀 I’m interested in finance, business analytics, videogames
 - 🌱 I’m currently learning business analytics and finance
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on App development
+  
 - 📫 How to reach me juangel.gomez@gmail.com
 - ⚡ Fun fact: I like music, I enjoy mi time playing guitar for hours
 
